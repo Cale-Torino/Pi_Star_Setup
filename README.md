@@ -25,10 +25,11 @@ network={
 	scan_ssid=1
 }
 
+http://pi-star.local/admin/configure.php
 
 ```
+[Brandmeister Login](https://brandmeister.network/?page=login)
 
-https://brandmeister.network/?page=login&tokenfail=1
 
 https://www.reddit.com/r/DMR/comments/14bk1e1/hotspot_goodbye_pistar/?rdt=50763&onetap_auto=true
 
